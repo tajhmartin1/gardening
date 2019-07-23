@@ -1,0 +1,26 @@
+body{
+    background-color: #83DEA3;
+}
+img{
+    width: 600px;
+    height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25%;
+}
+/* a{
+    color: #de83be;
+} */
+h1{
+    font-size: 100px;
+    color: #de83be;
+}
+h2{
+    color: #de83be;
+    font-size: 40px;
+}
+p{
+    font-size: 16;
+    line-height: 1.6;
+}
